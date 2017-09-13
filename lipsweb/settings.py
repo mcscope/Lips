@@ -142,7 +142,7 @@ INSTALLED_APPS = (
     'djangocms_snippet',
     'djangocms_googlemap',
     'djangocms_video',
-    'lipsweb'
+    'lipsweb',
 )
 
 LANGUAGES = (
@@ -187,7 +187,7 @@ DATABASES = {
         'NAME': 'project.db',
         'PASSWORD': '',
         'PORT': '',
-        'USER': ''
+        'USER': '',
     }
 }
 
